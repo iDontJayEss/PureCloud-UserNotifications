@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Voxai.Integration.Providers.PureCloud</RootNamespace>
+    <NoWarn>NU1701</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PureCloudPlatform.Client.V2" Version="142.0.3" />
+  </ItemGroup>
+
+</Project>

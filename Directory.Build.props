@@ -1,0 +1,10 @@
+<Project>
+  <!-- Language Features -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DebugType>portable</DebugType>
+    
+  </PropertyGroup>
+</Project>
